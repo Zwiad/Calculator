@@ -1,0 +1,15 @@
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.csproj.AssemblyReference.cache
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.AssemblyInfoInputs.cache
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.AssemblyInfo.cs
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.csproj.CoreCompileInputs.cache
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\bin\Debug\net6.0\Wtf.exe
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\bin\Debug\net6.0\Wtf.deps.json
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\bin\Debug\net6.0\Wtf.runtimeconfig.json
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\bin\Debug\net6.0\Wtf.dll
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\bin\Debug\net6.0\Wtf.pdb
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.dll
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\refint\Wtf.dll
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.pdb
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\Wtf.genruntimeconfig.cache
+C:\Users\jmbk\OneDrive\Pulpit\Wtf\Wtf\obj\Debug\net6.0\ref\Wtf.dll
